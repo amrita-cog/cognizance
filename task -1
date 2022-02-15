@@ -1,4 +1,8 @@
 abhinav ch.en.u4cce21003
 sunrise in east
 command
+<<<<<<< HEAD
 command for fetch
+=======
+command for reset
+>>>>>>> 55088d3 (cmd for rebase)
